@@ -1,0 +1,29 @@
+Functional Requirements:
+------------------------
+- Both get and put should run in constant average time
+- Let's not have thread safe implementations for now
+- For missing keys, let's use Optional.Empty()
+- Null keys or values not supported
+
+Core Entities:
+---------------
+- Cache<K, V>
+- LRUCache<K, V>
+- Node<K, V>
+- HashMap<K, Node<K, V>>
+- Doubly linked lise
+
+Responsibility of Entities:
+---------------------------
+...
+...
+
+Relationship between Entities:
+------------------------------
+- IS-A relationship
+- Has-A relationship
+- Uses-A relationship
+
+LLD:
+----
+Coding
