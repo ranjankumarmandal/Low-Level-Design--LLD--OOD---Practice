@@ -1,0 +1,16 @@
+SOLID principles are design principles which helps write better code, avoid duplicate code, easy to maintain, easy to understand, flexible software, and helps to reduce complexity.
+
+Subtypes -
+- S -> Single Responsibility: A class should have one reason to change.
+- O -> Open/Closed Principle (OCP): Classes should be open for extension but closed for modification.
+- L -> Liskov Substitution Principle: A child class should be usable wherever its parent class is expected without breaking behavior.
+- I -> Interface Segregation Principle (ISP): Don't force a class to implement methods it doesn't need.
+- D -> Dependency Inversion Principle (DIP): High-level classes should depend on abstractions, not concrete classes.
+
+
+Principle	Simple Meaning
+S	        One class → One responsibility
+O	        Extend behavior without modifying existing code
+L	        Child should safely replace parent
+I	        Keep interfaces small
+D	        Depend on abstractions
