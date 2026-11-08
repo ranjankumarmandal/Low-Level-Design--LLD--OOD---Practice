@@ -1,5 +1,9 @@
 Functional Requirement:
 -----------------------
+- This parking lot system supports motorcycles, cars and trucks, with compatible motorcycle, compact, and large size.
+- Parking fee is calculated hourly, rounded up, with a minimum charge of one hour.
+- A vehicle can have only one active ticket, and invalid or already closed tickets are rejected.
+- We only need the core in-memory parking lot model
 
 Core Entities:
 --------------
