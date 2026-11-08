@@ -7,6 +7,16 @@ Functional Requirement:
 
 Core Entities:
 --------------
+- Vehicle
+- ParkingSpot
+- ParkingFloor
+- ParkingTicket
+- ParkingReceipt
+- SpotAssignmentStrategy
+- FirstAvailableSpotStrategy
+- PricingStrategy
+- HourlyPricingStrategy
+- ParkingLot
 
 Responsibility of Entities:
 ---------------------------
