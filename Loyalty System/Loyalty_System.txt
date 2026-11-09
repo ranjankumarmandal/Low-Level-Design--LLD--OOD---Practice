@@ -1,10 +1,10 @@
 Functional Requirement:
 -----------------------
 - Points don't expire
-- A customer's tier is updated automatically based on lifetime earned points
-- Every 100 points can be redeemed for a $1 discount
-- A customer cannot redeem more points than their current balance
-- In-memory implementation
+- A customer's tier is updated automatically based on lifetime earned points.
+- Every 100 points can be redeemed for a $1 discount.
+- A customer cannot redeem more points than their current balance.
+- In-memory implementation.
 
 Core Entities:
 --------------
