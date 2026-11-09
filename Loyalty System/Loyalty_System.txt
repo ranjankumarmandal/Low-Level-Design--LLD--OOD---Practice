@@ -8,6 +8,15 @@ Functional Requirement:
 
 Core Entities:
 --------------
+- Customer
+- LoyaltyAccount
+- LoyaltyTier
+- PointTransaction
+- TransactionType
+- LoyaltyProgram
+- TierPolicy
+- StandardTierPolicy
+- InsufficientPointsException
 
 Responsibility of Entities:
 ---------------------------
