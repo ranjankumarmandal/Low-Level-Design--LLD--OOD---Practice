@@ -1,5 +1,8 @@
 Functional Requirement:
 -----------------------
+- This version accepts cash, represented as integer cents so we avoid floating point money errors.
+- The machine can return any required change, tracking individual coins is out of scope.
+Each transaction purchases one product. Staff can restock slots.
 
 Core Entities:
 --------------
