@@ -13,9 +13,14 @@ Core Entities:
 
 Responsibility of Entities:
 ---------------------------
+...
+...
 
 Relationship between Entities:
 -------------------------------
+IS-A relationship
+HAS-A relationship
+USES-A relationship
 
 LLD:
 ----
