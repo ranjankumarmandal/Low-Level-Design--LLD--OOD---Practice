@@ -1,0 +1,14 @@
+Functional Requirement:
+-----------------------
+
+Core Entities:
+--------------
+
+Responsibility of Entities:
+---------------------------
+
+Relationship between Entities:
+-------------------------------
+
+LLD:
+----
