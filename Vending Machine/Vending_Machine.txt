@@ -6,6 +6,10 @@ Each transaction purchases one product. Staff can restock slots.
 
 Core Entities:
 --------------
+- Product
+- Slot
+- VendingMachine
+- Receipt
 
 Responsibility of Entities:
 ---------------------------
