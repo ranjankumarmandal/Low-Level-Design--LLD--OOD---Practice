@@ -9,3 +9,18 @@ Core Entities:
 - Elevator
 - ElevatorController
 - Direction and DoorState
+
+Responsibility of Entities:
+----------------------------
+...
+...
+
+Relationship between Entities:
+------------------------------
+- IS-A relationship
+- HAS-A relationship
+- USES-A relationship
+
+LLD:
+----
+Coding
