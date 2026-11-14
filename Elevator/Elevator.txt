@@ -1,5 +1,8 @@
 Functional Requirement:
 ------------------------
+- This building has multiple elevators.
+- A call to step() simulates one unit of time, we are not integrating with physical hardware.
+- For now let's skip capacity, emergencies, and maintenance.
 
 Core Entities:
 ---------------
@@ -7,8 +10,8 @@ Core Entities:
 Responsibility of Entities:
 ----------------------------
 
-Relationship of Entities:
---------------------------
+Relationship between Entities:
+------------------------------
 
 LLD:
 ----
