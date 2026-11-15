@@ -6,6 +6,12 @@ Functional Requirement:
 
 Core Entities:
 --------------
+- Card
+- Dock
+- Player
+- HandValue
+- HandEvaluator
+- PokerGame
 
 Responsibility of Entities:
 ---------------------------
