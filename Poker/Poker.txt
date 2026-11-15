@@ -1,5 +1,8 @@
 Functional Requirement:
 -----------------------
+- I'll implement a simple 5-card poker game: each player receives five cards, pays a fixed ante and can fold before the showdown.
+- Players don't exchange cards, and there are no additional betting rounds. Those can be added once the core game works.
+- Tied winners split the pot. Any leftover chip goes to the first tied winner in player order.
 
 Core Entities:
 --------------
