@@ -6,6 +6,11 @@ Functional Requirement:
 
 Core Entities:
 --------------
+- Ingredient
+- DrinkType
+- Recipe
+- Beverage
+- CoffeeMachine
 
 Responsibility of Entities:
 ----------------------------
