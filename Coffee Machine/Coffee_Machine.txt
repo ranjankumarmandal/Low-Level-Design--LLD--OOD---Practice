@@ -1,5 +1,8 @@
 Functional Requirement:
 ------------------------
+- We will support espresso, latte, and cappuccino with fixed recipes.
+- Payments are out of scope.
+- Multiple requests are possible, so making a drink should atomic; two requests must not consume the same ingredients.
 
 Core Entities:
 --------------
