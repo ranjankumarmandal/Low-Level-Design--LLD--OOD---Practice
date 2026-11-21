@@ -1,5 +1,8 @@
 Functional Requirement:
 -----------------------
+- We track each physical copy separately, since two copies of the same book can be  borrowed independently.
+- For now, we only need registration, that search, borrowing, and returns. No reservations, fines, or authentication.
+- A loan lasts 14 days.
 
 Core Entities:
 --------------
