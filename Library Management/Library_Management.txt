@@ -6,6 +6,11 @@ Functional Requirement:
 
 Core Entities:
 --------------
+- Book
+- BookCopy
+- Member
+- Loan
+- Library
 
 Responsibility of Entities:
 ---------------------------
