@@ -6,6 +6,9 @@ Functional Requirement:
 
 Core Entities:
 --------------
+- Account
+- Bank
+- ATM
 
 Responsibility of Entities:
 ---------------------------
