@@ -1,5 +1,8 @@
 Functional Requirement:
 -----------------------
+- Each card maps to one account.
+- Deposits provide counts of supported bill denominations.
+- We'll model successful hardware operations and discuss failure handling separately.
 
 Core Entities:
 --------------
