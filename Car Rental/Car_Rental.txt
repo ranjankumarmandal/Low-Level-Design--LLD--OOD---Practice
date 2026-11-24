@@ -1,5 +1,8 @@
 Functional Requirement:
 ------------------------
+- Customers can reserve future dates. The pickup date is included, and the return date is excluded.
+- Each car has a fixed daily price; we calculate the total but do not process payments.
+- We will keep this to one in-memory rental location. No authentication is needed.
 
 Core Entities:
 ---------------
