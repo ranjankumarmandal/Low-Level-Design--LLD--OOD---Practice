@@ -6,6 +6,10 @@ Functional Requirement:
 
 Core Entities:
 ---------------
+- Car
+- Booking
+- RentalService
+- BookingService
 
 Responsibility of Entities:
 ----------------------------
