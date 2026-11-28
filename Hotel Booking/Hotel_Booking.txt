@@ -1,5 +1,8 @@
 Functional Requirement:
 ------------------------
+- We support multiple hotels.
+- A stay covers the check-in date but not the check-out date.
+- We will focus on room availability booking, and cancellation; payments are out of scope.
 
 Core Entities:
 --------------
