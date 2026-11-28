@@ -6,6 +6,10 @@ Functional Requirement:
 
 Core Entities:
 --------------
+- Hotel
+- Room
+- Booking
+- BookingSystem
 
 Responsibility of Entities:
 ---------------------------
